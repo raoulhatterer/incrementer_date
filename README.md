@@ -1,7 +1,6 @@
 # incrementer_date
-Fonctions elisp permettant d'incrémenter la date écrite en français au point dans un buffet emacs.  
-
-
+Deux fonctions elisp permettant d'incrémenter la date écrite en français au point dans un buffet emacs. 
+Ces deux fonctions sont à placer dans le fichier d'initialisation de emacs.  
 
 ## Exemple:
 
