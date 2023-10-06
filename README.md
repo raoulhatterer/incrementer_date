@@ -3,7 +3,7 @@ Fonctions elisp permettant d'incrémenter la date écrite en français au point 
 
 
 
-## Exememple:
+## Exemple:
 
 
 Soit le texte suivant dans un buffer markdown:
