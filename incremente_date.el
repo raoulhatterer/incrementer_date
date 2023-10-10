@@ -48,4 +48,4 @@
         (message "Aucune date au format 'jour_semaine jour/mois/année' trouvée à ce point"))))
   (forward-word))
 
-(global-set-key (kbd "M-<up>") 'incrementer_date_actuelle)
+(global-set-key (kbd "M-<up>") 'incrementer_date_au_point)
